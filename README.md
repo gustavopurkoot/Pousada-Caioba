@@ -39,13 +39,14 @@ Todos os dados externos que podem mudar no futuro (WhatsApp, Instagram, endereç
 
 ```js
 const CONFIG = {
-  whatsappNumber: "5541995696112",
-  whatsappMessage: "Olá! Vim pelo site da Pousada Caiobá e gostaria de informações sobre reservas.",
-  instagramUrl: "https://www.instagram.com/pousadacaioba_oficial/",
-  address: "R. Jacarezinho, 275 - Caiobá, Matinhos - PR, 83260-000",
-  youtubeHotelId: "SUBSTITUIR_VIDEO_HOTEL_ID",
-  youtubeVideo2Id: "SUBSTITUIR_VIDEO_2_ID",
-};
+    whatsappNumber: "5541995696112",
+    whatsappMessage: "Olá! Vim pelo site da Pousada Caiobá e gostaria de informações sobre reservas.",
+    instagramUrl: "https://www.instagram.com/pousadacaioba_oficial/",
+    address: "R. Jacarezinho, 275 - Caiobá, Matinhos - PR, 83260-000",
+    
+    youtubeHotelId: "lZDSMZ95i8c",
+    youtubeVideo2Id: "sJtHVjIubcU",
+  };
 ```
 
 Para atualizar qualquer um desses dados, basta editar esse objeto — nenhum outro arquivo precisa ser tocado.
